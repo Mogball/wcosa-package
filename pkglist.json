@@ -1,0 +1,1 @@
+[{"paths": ["pkg/wlib"], "name": "wlib", "url": "https://github.com/waterloop/wlib", "version": "", "branch": "", "unqualified_name": "wlib"}, {"paths": ["pkg/goose-sensors"], "name": "goose-sensors", "url": "https://github.com/waterloop/goose-sensors", "version": "", "branch": "", "unqualified_name": "goose-sensors"}]
